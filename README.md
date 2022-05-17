@@ -10,4 +10,4 @@ html, css, js, ts, vue.js
 
 ## hobby
 
-movie, music
+movie, music, sleep
